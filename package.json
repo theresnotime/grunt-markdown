@@ -45,7 +45,7 @@
     "grunt-contrib-jshint": "~2.0.0",
     "grunt-contrib-nodeunit": "~2.1.0",
     "grunt-contrib-watch": "~1.1.0",
-    "grunt-mocha-istanbul": "~1.4.1",
+    "grunt-mocha-istanbul": "~5.0.2",
     "grunt-mocha-test": "^0.13.3",
     "mocha": "~1.18.2"
   },
